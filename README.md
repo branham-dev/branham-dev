@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @branham-dev
 
-Welcome to my GitHub profile! I’m a passionate software developer with a focus on **frontend development** using **React** and **Tailwind CSS**. While I’m more proficient on the frontend, I’m more enthusiastic about backend development, even though circumstances have led me to focus more on frontend technologies.
+Welcome to my GitHub profile! I’m a passionate software developer with a focus on **frontend development**. While I’m more proficient on the frontend, I’m equally enthusiastic about backend development, even though circumstances have led me to focus more on frontend technologies.
  I’m all about crafting applications that not only look great but also feel intuitive and effortless to use. My goal is to build tools that solve real problems, improve user experiences, and make a meaningful impact on how people interact with technology.
   
 
